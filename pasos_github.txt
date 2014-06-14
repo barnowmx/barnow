@@ -1,4 +1,4 @@
-1. Crear el archivo a subir, o modificar 
+1. Crear el archivo a subir
 2. ingresar la línea:
 	git status, para ver acciones a realizar
 3. crear el commit:
@@ -6,6 +6,20 @@
 4. subir los cambios a producción
 	git push -u origin master
 
-	
+5. Revisar las actualizaciones en gitHub:
+	https://github.com/"usuario personal"/barnow/network
 
+6. Aplicar la siguiente linea en terminal:
+	git pull https://github.com/"Usuario que realizo la actualizacion"/barnow.git master
 
+7. Confirmar la descarga: 
+	git push origin master
+
+8. Guardar modificacion 
+	git status, para ver acciones a realizar
+
+9. crear el commit:
+	git commit -a -m "mensaje"
+
+10. subir los cambios a producción
+	git push -u origin master
