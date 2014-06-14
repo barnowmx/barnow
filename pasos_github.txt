@@ -1,0 +1,11 @@
+1. Crear el archivo a subir, o modificar 
+2. ingresar la línea:
+	git status, para ver acciones a realizar
+3. crear el commit:
+	git commit -a -m "mensaje"
+4. subir los cambios a producción
+	git push -u origin master
+
+	
+
+
